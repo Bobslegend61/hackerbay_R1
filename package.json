@@ -1,0 +1,20 @@
+{
+  "name": "round-one",
+  "version": "1.0.0",
+  "description": "Round One of HackerBay's interview",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobslegend61/hackerbay_R1.git"
+  },
+  "author": "Alabi Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobslegend61/hackerbay_R1/issues"
+  },
+  "homepage": "https://github.com/Bobslegend61/hackerbay_R1#readme"
+}

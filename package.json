@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "eslint": "./node_modules/.bin/eslint"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/Bobslegend61/hackerbay_R1/issues"
   },
-  "homepage": "https://github.com/Bobslegend61/hackerbay_R1#readme"
+  "homepage": "https://github.com/Bobslegend61/hackerbay_R1#readme",
+  "devDependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "eslint": "^5.12.0"
+  }
 }

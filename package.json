@@ -26,5 +26,8 @@
     "esdoc-standard-plugin": "^1.0.0",
     "eslint": "^5.12.0",
     "mocha": "^6.0.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }

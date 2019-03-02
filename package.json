@@ -4,7 +4,7 @@
   "description": "Round One of HackerBay's interview",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "start": "node server.js",
     "eslint": "./node_modules/.bin/eslint",
     "esdoc": "./node_modules/.bin/esdoc"
@@ -20,8 +20,11 @@
   },
   "homepage": "https://github.com/Bobslegend61/hackerbay_R1#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
     "esdoc": "^1.1.0",
     "esdoc-standard-plugin": "^1.0.0",
-    "eslint": "^5.12.0"
+    "eslint": "^5.12.0",
+    "mocha": "^6.0.2"
   }
 }

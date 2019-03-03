@@ -6,6 +6,7 @@
   "scripts": {
     "test": "mocha",
     "start": "node server.js",
+    "dev": "nodemon server.js",
     "eslint": "./node_modules/.bin/eslint",
     "esdoc": "./node_modules/.bin/esdoc"
   },
@@ -25,9 +26,11 @@
     "esdoc": "^1.1.0",
     "esdoc-standard-plugin": "^1.0.0",
     "eslint": "^5.12.0",
-    "mocha": "^6.0.2"
+    "mocha": "^6.0.2",
+    "nodemon": "^1.18.10"
   },
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "winston": "^3.2.1"
   }
 }

@@ -7,9 +7,10 @@ module.exports = (req, res, next) => {
     }
 
     jwt.verify(authorization, 'secret', (err, decoded) => {
-        if(err) {
+        if(err && !decoded) {
             return res.status(401).send('unauthorized');
         }else {
+            req.body.decoded = decoded;
             next();
         }
     });

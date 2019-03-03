@@ -1,9 +1,10 @@
-const User = require('./models/User');
+const _helper = require('./helperFunc');
 const auth = require('./auth');
 /**
- * Handles all routing processes
  *
- * @param {*} router
+ *
+ * @param {Object} router
+ * @returns {Object} Router object
  */
 const routes = (router) => {
     router.route('/login')
@@ -12,14 +13,20 @@ const routes = (router) => {
             if(!username || !password) {
                 return res.status(401).send('Invalid Field');
             }
-            
-            let user = new User(username, password);
-            res.status(200).json({ success: true, data: user.sendUserDetails() });
+            const token = _helper.generateToken(username);
+            res.status(200).json({ success: true, data: { username, token }  });
         });
     
-    router.route('/test')
-        .get(auth, (req, res) => {
-            res.send('working');
+    router.route('/patch')
+        .patch(auth, (req, res) => {
+            let { document, patch } = req.body;
+            if(!document || typeof(document) !== 'object' || !patch || typeof(patch) !== 'object') {
+                return res.status(401).send('Invalid Field');
+            }
+            const patchResult = _helper.applyPatch(document, patch);
+            const { username } = req.body.decoded;
+            const token = _helper.generateToken(username);
+            res.status(201).json({ success: true, data: { username, token, patchResult }  });
         });
     return router;
 };

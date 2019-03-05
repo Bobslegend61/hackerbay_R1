@@ -1,7 +1,10 @@
+/** Local modules import */
 const _helper = require('./helperFunc');
 const auth = require('./auth');
+const logger = require('./logger');
+
 /**
- *
+ *  Router configuration
  *
  * @param {Object} router
  * @returns {Object} Router object
@@ -28,6 +31,28 @@ const routes = (router) => {
             const token = _helper.generateToken(username);
             res.status(201).json({ success: true, data: { username, token, patchResult }  });
         });
+
+    router.route('/thumbnail')
+        .post(auth, (req, res) => {
+            const { url } = req.body;
+            if(!url || !_helper.validateImageUrl(url)) {
+                return res.status(401).send('Invalid Field');
+            }
+
+            _helper.downloadImage(url, (err, image) => {
+                if(err) {
+                    logger.log('error', err);
+                    return res.status(401).send('Something went wrong');
+                }
+                _helper.resizeImage(image, (err, data) => {
+                    if(!err) {
+                        logger.log('error', err);
+                        res.status(200).sendFile(data);
+                    }
+                });
+            });
+        });
+        
     return router;
 };
 

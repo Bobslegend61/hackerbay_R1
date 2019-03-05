@@ -1,5 +1,14 @@
 const jwt = require('jsonwebtoken');
 
+/**
+ *  Authentication middleware
+ *  It validates the token sent by the user and proceeds if valid else reject
+ *
+ * @param {Object} req The request object from the client
+ * @param {Object} res  The response object from the server
+ * @param {*} next A function called when user is unthenticated
+ * @returns
+ */
 module.exports = (req, res, next) => {
     const { authorization } = req.headers;
     if(!authorization) {

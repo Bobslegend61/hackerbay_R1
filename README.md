@@ -22,7 +22,7 @@ $ npm test
 _**/login**_ - `POST REQUEST` Logs in the user. Accepts any username and password and returns an object containing the authorization token.
 #### Example
 Using postman
-![/login](./img/hackerbay_login.png)
+![/login](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/hackerbay_login.PNG)
 
 _**/patch**_ - `PATCH REQUEST` Send along the authorization token in the header and a body containing the document and the patch operation. it returns an object containing the result of the applied patch to the document.
 

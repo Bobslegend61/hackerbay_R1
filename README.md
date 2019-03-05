@@ -27,23 +27,23 @@ Using postman
 _**/patch**_ - `PATCH REQUEST` Send along the authorization token in the header and a body containing the document and the patch operation. it returns an object containing the result of the applied patch to the document.
 
 Patch body containing the document and the patch operation
-![/patch](/img/patch_body.png)
+![/patch](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/patch_body.PNG)
 
 Setting the authorization header
-![/patch_header](/img/patch_header.png)
+![/patch_header](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/patch_header.PNG)
 
 Response from the server
-![patch_result](/img/patch_result.png)
+![patch_result](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/patch_result.PNG)
 
 _**/thumbnail**_ - `POST REQUEST` Takes an image url, downloads it, resizes it to 50 x 50 and sends the resulting image.
 
 **NOTE:** Don't forget to pass along the authorization token
 
 Making a request to the server
-![thumbnail_body](/img/thumbnail_body.png)
+![thumbnail_body](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/thumbnail_body.PNG)
 
 Response from the server
-![thumbnail_result](/img/thmbnail_result.png)
+![thumbnail_result](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/thmbnail_result.PNG)
 
 ## Issue Reporting
 

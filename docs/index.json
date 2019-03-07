@@ -1,0 +1,1244 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "Round one/.external-ecmascript.js",
+    "static": true,
+    "longname": "Round one/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "Round one/auth.js",
+    "content": "const jwt = require('jsonwebtoken');\r\n\r\n/**\r\n *  Authentication middleware\r\n *  It validates the token sent by the user and proceeds if valid else reject\r\n *\r\n * @param {Object} req The request object from the client\r\n * @param {Object} res  The response object from the server\r\n * @param {*} next A function called when user is unthenticated\r\n * @returns\r\n */\r\nmodule.exports = (req, res, next) => {\r\n    const { authorization } = req.headers;\r\n    if(!authorization) {\r\n        return res.status(401).send('unauthorized');\r\n    }\r\n\r\n    jwt.verify(authorization, 'secret', (err, decoded) => {\r\n        if(err && !decoded) {\r\n            return res.status(401).send('unauthorized');\r\n        }else {\r\n            req.body.decoded = decoded;\r\n            next();\r\n        }\r\n    });\r\n};",
+    "static": true,
+    "longname": "C:/Users/Emmanuel/Desktop/hackerbay/Round one/auth.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "jwt",
+    "memberof": "Round one/auth.js",
+    "static": true,
+    "longname": "Round one/auth.js~jwt",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/auth.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "Round one/helperFunc.js",
+    "content": "const jwt = require('jsonwebtoken');\r\nconst jsonPatch = require('fast-json-patch');\r\nconst path = require('path');\r\nconst request = require('request');\r\nconst fs = require('fs');\r\nconst sharp = require('sharp');\r\n\r\nmodule.exports = {\r\n    /**\r\n     * Generates a token for future authentication\r\n     * @param {String} username Username of signedin user.\r\n     * @returns {string} A token string.\r\n     */\r\n    generateToken(username) {\r\n        return jwt.sign({ username }, 'secret', { expiresIn: '1h' });\r\n    },\r\n\r\n    /**\r\n     * Apply patch to a document\r\n     *\r\n     * @param {Object} document The document to which the patch will be applied\r\n     * @param {(Object|Array)} patch The patch to apply to the document\r\n     * @returns {Object} Result from the applied patch\r\n     */\r\n    applyPatch(document, patch) {\r\n        if(patch.length !== undefined) {\r\n            return jsonPatch.applyPatch(document, patch).newDocument;\r\n        }else {\r\n            return jsonPatch.applyOperation(document, patch).newDocument;\r\n        }\r\n    },\r\n\r\n    /**\r\n     * Check if the url is an image url\r\n     *\r\n     * @param {String} imageUrl\r\n     * @returns Boolean if imageUrl is valid or not\r\n     */\r\n    validateImageUrl(imageUrl) {\r\n        if(['.jpeg', '.png', '.jpg'].indexOf(path.extname(imageUrl)) === -1) {\r\n            return false;\r\n        }\r\n        return true;\r\n    },\r\n\r\n    /**\r\n     * Download the image sent by the user.\r\n     *\r\n     * @param {String} imageUrl image url\r\n     * @param {*} callback A function that runs if this function is done excuting\r\n     */\r\n    downloadImage(imageUrl, callback) {\r\n        request\r\n            .get(imageUrl)\r\n            .on('error', (err) => callback(err))\r\n            .pipe(fs.createWriteStream(`img/${ path.parse(imageUrl).name }${ path.extname(imageUrl) }`))\r\n            .on('close', () => callback(null, path.join(__dirname, `/img/${ path.parse(imageUrl).name }${ path.extname(imageUrl) }`)));     \r\n    },\r\n\r\n    /**\r\n     * Resizes an image \r\n     *\r\n     * @param {String} imageUrl\r\n     * @param {*} callback Function containing the resized image\r\n     */\r\n    resizeImage(imageUrl, callback) {\r\n        sharp(imageUrl)\r\n            .resize(50, 50)\r\n            .toFile(path.join(__dirname, `/img/${path.parse(imageUrl).name}_resized${path.extname(imageUrl)}`), () => {\r\n                return callback(null, path.join(__dirname, `/img/${path.parse(imageUrl).name}_resized${path.extname(imageUrl)}`));\r\n            });\r\n    }\r\n};",
+    "static": true,
+    "longname": "C:/Users/Emmanuel/Desktop/hackerbay/Round one/helperFunc.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "variable",
+    "name": "jwt",
+    "memberof": "Round one/helperFunc.js",
+    "static": true,
+    "longname": "Round one/helperFunc.js~jwt",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 52,
+    "kind": "variable",
+    "name": "jsonPatch",
+    "memberof": "Round one/helperFunc.js",
+    "static": true,
+    "longname": "Round one/helperFunc.js~jsonPatch",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "variable",
+    "name": "path",
+    "memberof": "Round one/helperFunc.js",
+    "static": true,
+    "longname": "Round one/helperFunc.js~path",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "variable",
+    "name": "request",
+    "memberof": "Round one/helperFunc.js",
+    "static": true,
+    "longname": "Round one/helperFunc.js~request",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 55,
+    "kind": "variable",
+    "name": "fs",
+    "memberof": "Round one/helperFunc.js",
+    "static": true,
+    "longname": "Round one/helperFunc.js~fs",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "sharp",
+    "memberof": "Round one/helperFunc.js",
+    "static": true,
+    "longname": "Round one/helperFunc.js~sharp",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "Round one/logger.js",
+    "content": "const winston = require('winston');\r\nconst logger = winston.createLogger({\r\n    level: 'info',\r\n    format: winston.format.json(),\r\n    defaultMeta: { service: 'user-service' },\r\n    transports: [\r\n        new winston.transports.File({ filename: 'error.log', level: 'error' }),\r\n        new winston.transports.File({ filename: 'combined.log' })\r\n    ]\r\n});\r\n\r\nif (process.env.NODE_ENV !== 'production') {\r\n    logger.add(new winston.transports.Console({\r\n        format: winston.format.simple()\r\n    }));\r\n}\r\n\r\nmodule.exports = logger;",
+    "static": true,
+    "longname": "C:/Users/Emmanuel/Desktop/hackerbay/Round one/logger.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "winston",
+    "memberof": "Round one/logger.js",
+    "static": true,
+    "longname": "Round one/logger.js~winston",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/logger.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 59,
+    "kind": "variable",
+    "name": "logger",
+    "memberof": "Round one/logger.js",
+    "static": true,
+    "longname": "Round one/logger.js~logger",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/logger.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "Round one/router.js",
+    "content": "/** Local modules import */\r\nconst _helper = require('./helperFunc');\r\nconst auth = require('./auth');\r\nconst logger = require('./logger');\r\n\r\n/**\r\n *  Router configuration\r\n *\r\n * @param {Object} router\r\n * @returns {Object} Router object\r\n */\r\nconst routes = (router) => {\r\n    router.route('/login')\r\n        .post((req, res) => {\r\n            let { username, password } = req.body;\r\n            if(!username || !password) {\r\n                return res.status(401).send('Invalid Field');\r\n            }\r\n            const token = _helper.generateToken(username);\r\n            res.status(200).json({ success: true, data: { username, token }  });\r\n        });\r\n    \r\n    router.route('/patch')\r\n        .patch(auth, (req, res) => {\r\n            let { document, patch } = req.body;\r\n            if(!document || typeof(document) !== 'object' || !patch || typeof(patch) !== 'object') {\r\n                return res.status(401).send('Invalid Field');\r\n            }\r\n            const patchResult = _helper.applyPatch(document, patch);\r\n            const { username } = req.body.decoded;\r\n            const token = _helper.generateToken(username);\r\n            res.status(201).json({ success: true, data: { username, token, patchResult }  });\r\n        });\r\n\r\n    router.route('/thumbnail')\r\n        .post(auth, (req, res) => {\r\n            const { url } = req.body;\r\n            if(!url || !_helper.validateImageUrl(url)) {\r\n                return res.status(401).send('Invalid Field');\r\n            }\r\n\r\n            _helper.downloadImage(url, (err, image) => {\r\n                if(err) {\r\n                    logger.log('error', err);\r\n                    return res.status(401).send('Something went wrong');\r\n                }\r\n                _helper.resizeImage(image, (err, data) => {\r\n                    if(!err) {\r\n                        logger.log('error', err);\r\n                        res.status(200).sendFile(data);\r\n                    }\r\n                });\r\n            });\r\n        });\r\n        \r\n    return router;\r\n};\r\n\r\nmodule.exports = routes;",
+    "static": true,
+    "longname": "C:/Users/Emmanuel/Desktop/hackerbay/Round one/router.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "variable",
+    "name": "_helper",
+    "memberof": "Round one/router.js",
+    "static": true,
+    "longname": "Round one/router.js~_helper",
+    "access": "private",
+    "export": false,
+    "importPath": "round-one/Round one/router.js",
+    "importStyle": null,
+    "description": "Local modules import",
+    "lineNumber": 2,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 62,
+    "kind": "variable",
+    "name": "auth",
+    "memberof": "Round one/router.js",
+    "static": true,
+    "longname": "Round one/router.js~auth",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/router.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "variable",
+    "name": "logger",
+    "memberof": "Round one/router.js",
+    "static": true,
+    "longname": "Round one/router.js~logger",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/router.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "routes",
+    "memberof": "Round one/router.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "Round one/router.js~routes",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/router.js",
+    "importStyle": null,
+    "description": " Router configuration",
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Object} Router object"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "router",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": "Router object"
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 65,
+    "kind": "file",
+    "name": "Round one/server.js",
+    "content": "/** Core modules */\r\nconst express = require('express');\r\n\r\n/** Local modules */\r\nconst logger = require('./logger');\r\nconst routes = require('./router');\r\n\r\n/** Setting up app, router and defining port */\r\nconst router = express.Router();\r\nconst app = express();\r\nconst PORT = process.env.PORT || 3000;\r\n\r\n/** Applying middlewares */\r\napp.use(express.urlencoded({ extended: false }));\r\napp.use(express.json());\r\napp.use(routes(router));\r\napp.use('**', (req,res) => res.status(404).send('Not Found'));\r\n\r\n/** Listening to port */\r\napp.listen(PORT, () => logger.log({\r\n    level: 'info',\r\n    message: `App running on port: ${ PORT }`\r\n}));",
+    "static": true,
+    "longname": "C:/Users/Emmanuel/Desktop/hackerbay/Round one/server.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 66,
+    "kind": "variable",
+    "name": "express",
+    "memberof": "Round one/server.js",
+    "static": true,
+    "longname": "Round one/server.js~express",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/server.js",
+    "importStyle": null,
+    "description": "Core modules",
+    "lineNumber": 2,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 67,
+    "kind": "variable",
+    "name": "logger",
+    "memberof": "Round one/server.js",
+    "static": true,
+    "longname": "Round one/server.js~logger",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/server.js",
+    "importStyle": null,
+    "description": "Local modules",
+    "lineNumber": 5,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 68,
+    "kind": "variable",
+    "name": "routes",
+    "memberof": "Round one/server.js",
+    "static": true,
+    "longname": "Round one/server.js~routes",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/server.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "variable",
+    "name": "router",
+    "memberof": "Round one/server.js",
+    "static": true,
+    "longname": "Round one/server.js~router",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/server.js",
+    "importStyle": null,
+    "description": "Setting up app, router and defining port",
+    "lineNumber": 9,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 70,
+    "kind": "variable",
+    "name": "app",
+    "memberof": "Round one/server.js",
+    "static": true,
+    "longname": "Round one/server.js~app",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/server.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 71,
+    "kind": "variable",
+    "name": "PORT",
+    "memberof": "Round one/server.js",
+    "static": true,
+    "longname": "Round one/server.js~PORT",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/server.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 72,
+    "kind": "file",
+    "name": "Round one/test/helperFunc.js",
+    "content": "const chai = require('chai');\r\nconst chaiHttp = require('chai-http');\r\nchai.use(chaiHttp);\r\nconst assert = require('chai').assert;\r\nconst _helper = require('../helperFunc');\r\nconst path = require('path');\r\n\r\n/** @test {_helper} */\r\ndescribe('Helper function', function() {\r\n    /** @test {_helper.generateToken()} */\r\n    describe('_helper.generateToken', function() {\r\n        const token = _helper.generateToken('Alabi');\r\n\r\n        it('Should return a string', function() {\r\n            assert.isString(token, 'Token for authentication');\r\n        });\r\n\r\n        it('should have a length of 3 when splited with the . delimeter', function() {\r\n            assert.equal(token.split('.').length, 3, 'Three parts of a token');\r\n        });\r\n    });\r\n\r\n    /** @test {_helper.applyPatch()} */\r\n    describe('_helper.applyPatch', function() {\r\n        const document = { firstName: 'Albert', contactDetails: { phoneNumbers: [] } };\r\n        const patch = [\r\n            { 'op': 'replace', 'path': '/firstName', 'value': 'Joachim' },\r\n            { 'op': 'add', 'path': '/lastName', 'value': 'Wester' },\r\n            { 'op': 'add', 'path': '/contactDetails/phoneNumbers/0', 'value': { 'number': '555-123' }  }\r\n        ];\r\n\r\n        const newDoc = _helper.applyPatch(document, patch);\r\n        it('should return type object', function() {\r\n            assert.typeOf(newDoc, 'object', 'Modified doc');\r\n        });\r\n    });\r\n\r\n    /** @test {_helper.validateImageUrl()} */\r\n    describe('_helper.validateImageUrl', function() {\r\n        it('Should return a boolean', function() {\r\n            assert.isBoolean(_helper.validateImageUrl('example.png'), 'True or false');\r\n        });\r\n\r\n        it('Should return false', function() {\r\n            assert.isFalse(_helper.validateImageUrl('example.html'));\r\n        });\r\n    });\r\n\r\n    /** @test {_helper.downloadImage()} */\r\n    describe('_helper.downloadImage', function() {\r\n        it('Should download the image', function() {\r\n            _helper.downloadImage('https://homepages.cae.wisc.edu/~ece533/images/cat.png', function(err, downloadedPath) {\r\n                assert.equal(downloadedPath, path.join(__dirname, '../img/cat.png'));\r\n            });\r\n        });\r\n    });\r\n\r\n    /** @test {_helper.resizeImage()} */\r\n    describe('_helper.resizeImage', function() {\r\n        it('Should resize the cat image', function() {\r\n            _helper.resizeImage( path.join(__dirname, '../img/cat.png'), function(err, resizedPath) {\r\n                assert.equal(resizedPath, path.join(__dirname, '../img/cat_resized.png'));\r\n            });\r\n        });\r\n    });\r\n});\r\n\r\n",
+    "static": true,
+    "longname": "C:/Users/Emmanuel/Desktop/hackerbay/Round one/test/helperFunc.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 73,
+    "kind": "variable",
+    "name": "chai",
+    "memberof": "Round one/test/helperFunc.js",
+    "static": true,
+    "longname": "Round one/test/helperFunc.js~chai",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/test/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 74,
+    "kind": "variable",
+    "name": "chaiHttp",
+    "memberof": "Round one/test/helperFunc.js",
+    "static": true,
+    "longname": "Round one/test/helperFunc.js~chaiHttp",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/test/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 75,
+    "kind": "variable",
+    "name": "assert",
+    "memberof": "Round one/test/helperFunc.js",
+    "static": true,
+    "longname": "Round one/test/helperFunc.js~assert",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/test/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "variable",
+    "name": "_helper",
+    "memberof": "Round one/test/helperFunc.js",
+    "static": true,
+    "longname": "Round one/test/helperFunc.js~_helper",
+    "access": "private",
+    "export": false,
+    "importPath": "round-one/Round one/test/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 77,
+    "kind": "variable",
+    "name": "path",
+    "memberof": "Round one/test/helperFunc.js",
+    "static": true,
+    "longname": "Round one/test/helperFunc.js~path",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/test/helperFunc.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "Round one/test/router.js",
+    "content": "const chai = require('chai');\r\nconst chaiHttp = require('chai-http');\r\nchai.use(chaiHttp);\r\nconst assert = require('chai').assert;\r\n\r\n/** @test {API} */\r\ndescribe('API', function() {\r\n    const url = 'localhost:3000';\r\n    /** @test {API#/login} */\r\n    describe('/login', function() {\r\n        it('Should pass some assertions', function(done) {\r\n            chai.request(url)\r\n                .post('/login')\r\n                .send({\r\n                    username: 'Alabi',\r\n                    password: 'pass'\r\n                })\r\n                .end((err, res) => {\r\n                    const { body, status } = res;\r\n                    assert.equal(status, 200, 'Status code for the request');\r\n                    assert.isNull(err, 'should not have any error');\r\n                    assert.typeOf(body, 'object', 'Response object');\r\n                    assert.isTrue(body.data.hasOwnProperty('token'), 'Token returned for authentication');\r\n                    done();\r\n                });\r\n        });\r\n    });\r\n\r\n    /** @test {API#/patch} */\r\n    describe('/patch', function() {\r\n        it('Should be protected and reject this request with a status code of 401', function(done) {\r\n            chai.request(url)\r\n                .patch('/patch')\r\n                .end((err, res) => {\r\n                    const { text, status } = res;\r\n                    assert.equal(text, 'unauthorized');\r\n                    assert.equal(status, 401, 'Unauthorized');\r\n                    done();\r\n                });\r\n        });\r\n\r\n        it('Should authenticate and respond with 201 created response', function(done) {\r\n            chai.request.agent(url)\r\n                .post('/login')\r\n                .send({ username: 'Alabi', password: 'p' })\r\n                .then(function(res) {\r\n                    assert.isDefined(res.body.data.token, 'Token for next request');\r\n                    return chai.request.agent(url)\r\n                        .patch('/patch')\r\n                        .send({\r\n                            document: { firstName: 'Albert', contactDetails: { phoneNumbers: [] } },\r\n                            patch: [\r\n                                { 'op': 'replace', 'path': '/firstName', 'value': 'Joachim' },\r\n                                { 'op': 'add', 'path': '/lastName', 'value': 'Wester' },\r\n                                { 'op': 'add', 'path': '/contactDetails/phoneNumbers/0', 'value': { 'number': '555-123' }  }\r\n                            ]\r\n                        })\r\n                        .set('Authorization', res.body.data.token)\r\n                        .then(function(res) {\r\n                            const { statusCode, body: { data: { patchResult } } } = res;\r\n                            assert.equal(statusCode, 201);\r\n                            assert.typeOf(patchResult, 'object');\r\n                            done();\r\n                        });\r\n                });\r\n        });\r\n    });\r\n\r\n    /** @test {API#/thumbnail} */\r\n    describe('/thumbnail', function() {\r\n        this.timeout(5000);\r\n        it('Should return a statuscode of 200', function(done) {\r\n            chai.request.agent(url)\r\n                .post('/login')\r\n                .send({ username: 'Alabi', password: 'p' })\r\n                .then(function(res) {\r\n                    assert.isDefined(res.body.data.token, 'Token for next request');\r\n                    return chai.request.agent(url)\r\n                        .post('/thumbnail')\r\n                        .set('Authorization', res.body.data.token)\r\n                        .send({\r\n                            url: 'https://homepages.cae.wisc.edu/~ece533/images/airplane.png'\r\n                        })\r\n                        .then(function(res) {\r\n                            const { statusCode } = res;\r\n                            assert.equal(statusCode, 200);\r\n                            done();\r\n                        });\r\n                });\r\n        });\r\n    });\r\n});\r\n",
+    "static": true,
+    "longname": "C:/Users/Emmanuel/Desktop/hackerbay/Round one/test/router.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "variable",
+    "name": "chai",
+    "memberof": "Round one/test/router.js",
+    "static": true,
+    "longname": "Round one/test/router.js~chai",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/test/router.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 80,
+    "kind": "variable",
+    "name": "chaiHttp",
+    "memberof": "Round one/test/router.js",
+    "static": true,
+    "longname": "Round one/test/router.js~chaiHttp",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/test/router.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 81,
+    "kind": "variable",
+    "name": "assert",
+    "memberof": "Round one/test/router.js",
+    "static": true,
+    "longname": "Round one/test/router.js~assert",
+    "access": "public",
+    "export": false,
+    "importPath": "round-one/Round one/test/router.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "kind": "index",
+    "content": "# HackerBay Task - [Backend](https://github.com/hackerbay/interview-backend-task)\r\n\r\n## Set up\r\nInstall Dependencies\r\n```sh\r\n$ npm install\r\n```\r\nStart server\r\n```sh\r\n$ npm start\r\n```\r\nStart server in dev mode using nodemon\r\n```sh\r\n$ npm run dev\r\n```\r\nRun test\r\n```sh\r\n$ npm test\r\n```\r\n\r\n## API Endpoint\r\n_**/login**_ - `POST REQUEST` Logs in the user. Accepts any username and password and returns an object containing the authorization token.\r\n#### Example\r\nUsing postman\r\n![/login](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/hackerbay_login.PNG)\r\n\r\n_**/patch**_ - `PATCH REQUEST` Send along the authorization token in the header and a body containing the document and the patch operation. it returns an object containing the result of the applied patch to the document.\r\n\r\nPatch body containing the document and the patch operation\r\n![/patch](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/patch_body.PNG)\r\n\r\nSetting the authorization header\r\n![/patch_header](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/patch_header.PNG)\r\n\r\nResponse from the server\r\n![patch_result](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/patch_result.PNG)\r\n\r\n_**/thumbnail**_ - `POST REQUEST` Takes an image url, downloads it, resizes it to 50 x 50 and sends the resulting image.\r\n\r\n**NOTE:** Don't forget to pass along the authorization token\r\n\r\nMaking a request to the server\r\n![thumbnail_body](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/thumbnail_body.PNG)\r\n\r\nResponse from the server\r\n![thumbnail_result](https://github.com/Bobslegend61/hackerbay_R1/blob/master/img/thmbnail_result.PNG)\r\n\r\n## Issue Reporting\r\n\r\nIf you have found a bug or if you have a feature request, please report them at this repository issues section. \r\n\r\n## Author\r\n\r\n[Alabi Emmanuel](https://github.com/Bobslegend61)\r\n\r\n## License\r\n\r\nThis project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.\r\n",
+    "longname": "C:\\Users\\Emmanuel\\Desktop\\hackerbay\\Round one\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\r\n  \"name\": \"round-one\",\r\n  \"version\": \"1.0.0\",\r\n  \"description\": \"Round One of HackerBay's interview\",\r\n  \"main\": \"server.js\",\r\n  \"scripts\": {\r\n    \"test\": \"mocha\",\r\n    \"start\": \"node server.js\",\r\n    \"dev\": \"nodemon server.js\",\r\n    \"esdoc\": \"./node_modules/.bin/esdoc\"\r\n  },\r\n  \"repository\": {\r\n    \"type\": \"git\",\r\n    \"url\": \"git+https://github.com/Bobslegend61/hackerbay_R1.git\"\r\n  },\r\n  \"author\": \"Alabi Emmanuel\",\r\n  \"license\": \"ISC\",\r\n  \"bugs\": {\r\n    \"url\": \"https://github.com/Bobslegend61/hackerbay_R1/issues\"\r\n  },\r\n  \"homepage\": \"https://github.com/Bobslegend61/hackerbay_R1#readme\",\r\n  \"devDependencies\": {\r\n    \"chai\": \"^4.2.0\",\r\n    \"chai-http\": \"^4.2.1\",\r\n    \"esdoc\": \"^1.1.0\",\r\n    \"esdoc-standard-plugin\": \"^1.0.0\",\r\n    \"eslint\": \"^5.12.0\",\r\n    \"mocha\": \"^6.0.2\",\r\n    \"nodemon\": \"^1.18.10\"\r\n  },\r\n  \"dependencies\": {\r\n    \"express\": \"^4.16.4\",\r\n    \"fast-json-patch\": \"^2.0.7\",\r\n    \"jsonwebtoken\": \"^8.5.0\",\r\n    \"request\": \"^2.88.0\",\r\n    \"sharp\": \"^0.21.3\",\r\n    \"winston\": \"^3.2.1\"\r\n  }\r\n}\r\n",
+    "longname": "C:\\Users\\Emmanuel\\Desktop\\hackerbay\\Round one\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]
